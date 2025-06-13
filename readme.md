@@ -1,30 +1,51 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# Awesome FilamentPHP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/damian-developer/awesome-filamentphp/actions/workflows/lint.yaml/badge.svg)](https://github.com/damian-developer/awesome-filamentphp/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+
+Awesome list of FilamentPHP ecosystem
+
+<!-- image -->
+
+<a href="https://filamentphp.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/logo.svg" />
+</a>
+
+<!-- description -->
+
+FilamentPHP is a collection of full-stack components for Laravel that accelerates web development. It's often referred to as TALL Kit (Tailwind CSS, AlpineJS, Laravel, and Livewire).
+
+It's particularly useful for building admin panels, but can also be used to create customer-facing applications or Software-as-a-Service platforms. 
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Featured (new releases)](#featured-new-releases)
+- [Section 1](#section-1)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Featured (new releases)
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+<!-- END CONTENT -->
+
+## Follow
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/damian-developer/awesome-filamentphp/graphs/contributors)!
