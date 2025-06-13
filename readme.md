@@ -28,19 +28,30 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Integrations](#integrations)
+- [Calendar)](#calendar)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Integrations
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [filamentphp/spatie-laravel-settings-plugin](https://github.com/filamentphp/spatie-laravel-settings-plugin) - Integration of Spatie Laravel settings.
+
+## Calendar
+
+- [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget.
+
+## File viewer
+
+- [joaopaulolndev/filament-pdf-viewer](https://github.com/joaopaulolndev/filament-pdf-viewer) - Show PDF documents with records saved in the database or show documents without a database in the form of your resource.
+
 
 <!-- END CONTENT -->
 
 ## Follow
+
+- [Dan Harrin](https://x.com/danjharrin) - Co-creator of FilamentPHP
 
 ## Contributing
 
