@@ -33,6 +33,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [File viewer](#file-viewer)
 - [Login](#login)
 - [Misc](#misc)
+- [Tutorials and guides](#tutorials-and-guides)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -59,7 +60,11 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - Signature Pad Field for Filamentphp Forms.
 - [konnco/filament-import](https://github.com/konnco/filament-import) - import from files to your model, very easily without the need to do templates.
-- [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP. 
+- [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP.
+
+## Tutorials and guides
+
+- [andreia/filamentphp-guides](https://github.com/andreia/filamentphp-guides) - Filament PHP Guides and References.
 
 
 <!-- END CONTENT -->
