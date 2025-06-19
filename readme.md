@@ -30,6 +30,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 - [Integrations](#integrations)
 - [Calendar](#calendar)
+- [File viewer](#file-viewer)
 - [Follow](#follow)
 
 <!-- CONTENT -->
