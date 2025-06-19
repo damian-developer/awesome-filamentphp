@@ -31,6 +31,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [Integrations](#integrations)
 - [Calendar](#calendar)
 - [File viewer](#file-viewer)
+- [Login](#login)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -48,6 +49,10 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## File viewer
 
 - [joaopaulolndev/filament-pdf-viewer](https://github.com/joaopaulolndev/filament-pdf-viewer) - Show PDF documents with records saved in the database or show documents without a database in the form of your resource.
+
+## Login
+
+- [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) - OTP Login for FilamentPHP.
 
 
 <!-- END CONTENT -->
