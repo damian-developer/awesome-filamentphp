@@ -29,7 +29,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Contents
 
 - [Integrations](#integrations)
-- [Calendar)](#calendar)
+- [Calendar](#calendar)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -37,6 +37,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Integrations
 
 - [filamentphp/spatie-laravel-settings-plugin](https://github.com/filamentphp/spatie-laravel-settings-plugin) - Integration of Spatie Laravel settings.
+- [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp. 
 
 ## Calendar
 
@@ -51,7 +52,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 ## Follow
 
-- [Dan Harrin](https://x.com/danjharrin) - Co-creator of FilamentPHP
+- [Dan Harrin](https://x.com/danjharrin) - Co-creator of FilamentPHP.
 
 ## Contributing
 
