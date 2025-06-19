@@ -33,6 +33,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [Complete App](#complete-app)
 - [File viewer](#file-viewer)
 - [Login](#login)
+- [Mail](#mail)
 - [Misc](#misc)
 - [Tutorials and guides](#tutorials-and-guides)
 - [Follow](#follow)
@@ -60,6 +61,9 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Login
 
 - [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) - OTP Login for FilamentPHP.
+
+## Mail
+- [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log all outgoing emails in your Laravel project within your Filament panel.
 
 ## Misc
 
