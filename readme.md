@@ -32,6 +32,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [Calendar](#calendar)
 - [File viewer](#file-viewer)
 - [Login](#login)
+- [Misc](#misc)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -53,6 +54,10 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Login
 
 - [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) - OTP Login for FilamentPHP.
+
+## Misc
+
+- [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - Signature Pad Field for Filamentphp Forms.
 
 
 <!-- END CONTENT -->
