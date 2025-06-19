@@ -30,6 +30,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 - [Integrations](#integrations)
 - [Calendar](#calendar)
+- [Complete App](#complete-app)
 - [File viewer](#file-viewer)
 - [Login](#login)
 - [Misc](#misc)
@@ -48,6 +49,10 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget.
 
+## Complete App
+
+- [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel. 
+
 ## File viewer
 
 - [joaopaulolndev/filament-pdf-viewer](https://github.com/joaopaulolndev/filament-pdf-viewer) - Show PDF documents with records saved in the database or show documents without a database in the form of your resource.
@@ -59,7 +64,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Misc
 
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - Signature Pad Field for Filamentphp Forms.
-- [konnco/filament-import](https://github.com/konnco/filament-import) - import from files to your model, very easily without the need to do templates.
+- [konnco/filament-import](https://github.com/konnco/filament-import) - Import from files to your model, very easily without the need to do templates.
 - [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP.
 
 ## Tutorials and guides
