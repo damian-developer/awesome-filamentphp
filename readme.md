@@ -38,7 +38,8 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Integrations
 
 - [filamentphp/spatie-laravel-settings-plugin](https://github.com/filamentphp/spatie-laravel-settings-plugin) - Integration of Spatie Laravel settings.
-- [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp. 
+- [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp.
+- [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
 
 ## Calendar
 
