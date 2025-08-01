@@ -35,6 +35,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [Login](#login)
 - [Mail](#mail)
 - [Misc](#misc)
+- [UI](#iui)
 - [Tutorials and guides](#tutorials-and-guides)
 - [Follow](#follow)
 
@@ -46,6 +47,9 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp.
 - [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
 - [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament.
+
+## UI
+- [filament-icons/lucide](https://github.com/filament-icons/lucide) - Lucide Icons icon set.
 
 ## Calendar
 
