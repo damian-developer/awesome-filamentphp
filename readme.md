@@ -48,9 +48,6 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
 - [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament.
 
-## UI
-- [filament-icons/lucide](https://github.com/filament-icons/lucide) - Lucide Icons icon set.
-
 ## Calendar
 
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget.
@@ -75,6 +72,10 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) - Signature Pad Field for Filamentphp Forms.
 - [konnco/filament-import](https://github.com/konnco/filament-import) - Import from files to your model, very easily without the need to do templates.
 - [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP.
+
+## UI
+- [filament-icons/lucide](https://github.com/filament-icons/lucide) - Lucide Icons icon set.
+- [filament-icons/feather](https://github.com/filament-icons/feather) - Feather Icons icon set.
 
 ## Tutorials and guides
 
