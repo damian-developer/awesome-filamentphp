@@ -35,7 +35,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [Login](#login)
 - [Mail](#mail)
 - [Misc](#misc)
-- [UI](#iui)
+- [UI](#ui)
 - [Tutorials and guides](#tutorials-and-guides)
 - [Follow](#follow)
 
@@ -74,8 +74,10 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP.
 
 ## UI
+
 - [filament-icons/lucide](https://github.com/filament-icons/lucide) - Lucide Icons icon set.
 - [filament-icons/feather](https://github.com/filament-icons/feather) - Feather Icons icon set.
+- [filament-icons/phosphor](https://github.com/filament-icons/phosphor) - Phosphor Icons icon set.
 
 ## Tutorials and guides
 
