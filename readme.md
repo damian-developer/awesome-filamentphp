@@ -20,7 +20,7 @@ Awesome list of FilamentPHP ecosystem
 
 FilamentPHP is a collection of full-stack components for Laravel that accelerates web development. It's often referred to as TALL Kit (Tailwind CSS, AlpineJS, Laravel, and Livewire).
 
-It's particularly useful for building admin panels, but can also be used to create customer-facing applications or Software-as-a-Service platforms. 
+It's particularly useful for building admin panels, but can also be used to create customer-facing applications or Software-as-a-Service platforms.
 
 </div>
 
@@ -47,6 +47,8 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp.
 - [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
 - [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament.
+- [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) - Tiptap integration providing an advanced WYSIWYG editor with rich text editing for Filament forms.
+- [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Brings JavaScript to Filament, allowing you to seamlessly integrate any JS library.
 
 ## Calendar
 
@@ -54,7 +56,13 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 ## Complete App
 
-- [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel. 
+- [Log1x/filament-starter](https://github.com/Log1x/filament-starter) - A batteries-included starter kit for Filament with pre-configured authentication, theming, and deployment.
+- [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Open source invoicing application built with Laravel and Filament for freelancers and small businesses.
+- [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas) - Multi-tenant ERP SaaS platform with comprehensive business management features.
+- [devaslanphp/project-management](https://github.com/devaslanphp/project-management) - Complete project management system with tasks, teams, and collaboration features.
+- [Relaticle/relaticle](https://github.com/Relaticle/relaticle) - Open-source CRM and business management platform built with Filament.
+- [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - Company and team management scaffolding for multi-tenant Filament applications.
 
 ## File viewer
 
@@ -62,7 +70,9 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 ## Login
 
+- [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - Complete authorization solution with role and permission management for Filament.
 - [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) - OTP Login for FilamentPHP.
+- [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - User impersonation functionality allowing admins to login as other users.
 
 ## Mail
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log all outgoing emails in your Laravel project within your Filament panel.
