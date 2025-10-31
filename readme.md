@@ -13,12 +13,12 @@ Awesome list of FilamentPHP ecosystem
 <!-- image -->
 
 <a href="https://filamentphp.com/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/logo.svg" />
+  <img src="./assets/logo.webp" />
 </a>
 
 <!-- description -->
 
-FilamentPHP is a collection of full-stack components for Laravel that accelerates web development. It's often referred to as TALL Kit (Tailwind CSS, AlpineJS, Laravel, and Livewire).
+[FilamentPHP](https://filamentphp.com/) is a collection of full-stack components for Laravel that accelerates web development. It's often referred to as TALL Kit (Tailwind CSS, AlpineJS, Laravel, and Livewire).
 
 It's particularly useful for building admin panels, but can also be used to create customer-facing applications or Software-as-a-Service platforms.
 
