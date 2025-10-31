@@ -53,6 +53,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Calendar
 
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget.
+- [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - A fully customizable calendar for all your needs.
 
 ## Complete App
 
