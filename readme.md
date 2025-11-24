@@ -13,7 +13,7 @@ Awesome list of FilamentPHP ecosystem
 <!-- image -->
 
 <a href="https://filamentphp.com/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/logo.webp" />
+  <img src="./assets/logo.png" />
 </a>
 
 <!-- description -->
