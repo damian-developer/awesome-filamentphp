@@ -28,27 +28,18 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 ## Contents
 
-- [Integrations](#integrations)
 - [Calendar](#calendar)
 - [Complete App](#complete-app)
 - [File viewer](#file-viewer)
+- [Integrations](#integrations)
 - [Login](#login)
 - [Mail](#mail)
 - [Misc](#misc)
-- [UI](#ui)
 - [Tutorials and guides](#tutorials-and-guides)
+- [UI](#ui)
 - [Follow](#follow)
 
 <!-- CONTENT -->
-
-## Integrations
-
-- [filamentphp/spatie-laravel-settings-plugin](https://github.com/filamentphp/spatie-laravel-settings-plugin) - Integration of Spatie Laravel settings.
-- [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp.
-- [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
-- [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament.
-- [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) - Tiptap integration providing an advanced WYSIWYG editor with rich text editing for Filament forms.
-- [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Brings JavaScript to Filament, allowing you to seamlessly integrate any JS library.
 
 ## Calendar
 
@@ -69,6 +60,16 @@ It's particularly useful for building admin panels, but can also be used to crea
 
 - [joaopaulolndev/filament-pdf-viewer](https://github.com/joaopaulolndev/filament-pdf-viewer) - Show PDF documents with records saved in the database or show documents without a database in the form of your resource.
 
+## Integrations
+
+- [filamentphp/spatie-laravel-settings-plugin](https://github.com/filamentphp/spatie-laravel-settings-plugin) - Integration of Spatie Laravel settings.
+- [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) - Google Analytics integration with Filamentphp.
+- [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament.
+- [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) - Apex Charts integration for Filament.
+- [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) - Tiptap integration providing an advanced WYSIWYG editor with rich text editing for Filament forms.
+- [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Brings JavaScript to Filament, allowing you to seamlessly integrate any JS library.
+
+
 ## Login
 
 - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - Complete authorization solution with role and permission management for Filament.
@@ -76,6 +77,7 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) - User impersonation functionality allowing admins to login as other users.
 
 ## Mail
+
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log all outgoing emails in your Laravel project within your Filament panel.
 
 ## Misc
@@ -84,15 +86,16 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [konnco/filament-import](https://github.com/konnco/filament-import) - Import from files to your model, very easily without the need to do templates.
 - [tomatophp/filament-tenancy](https://github.com/tomatophp/filament-tenancy) - Tenancy multi-database integration for FilamentPHP.
 
+
+## Tutorials and guides
+
+- [andreia/filamentphp-guides](https://github.com/andreia/filamentphp-guides) - Filament PHP Guides and References.
+
 ## UI
 
 - [filament-icons/lucide](https://github.com/filament-icons/lucide) - Lucide Icons icon set.
 - [filament-icons/feather](https://github.com/filament-icons/feather) - Feather Icons icon set.
 - [filament-icons/phosphor](https://github.com/filament-icons/phosphor) - Phosphor Icons icon set.
-
-## Tutorials and guides
-
-- [andreia/filamentphp-guides](https://github.com/andreia/filamentphp-guides) - Filament PHP Guides and References.
 
 
 <!-- END CONTENT -->
