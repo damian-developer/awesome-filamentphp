@@ -69,7 +69,6 @@ It's particularly useful for building admin panels, but can also be used to crea
 - [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) - Tiptap integration providing an advanced WYSIWYG editor with rich text editing for Filament forms.
 - [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Brings JavaScript to Filament, allowing you to seamlessly integrate any JS library.
 
-
 ## Login
 
 - [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) - Complete authorization solution with role and permission management for Filament.
@@ -103,6 +102,8 @@ It's particularly useful for building admin panels, but can also be used to crea
 ## Follow
 
 - [Dan Harrin](https://x.com/danjharrin) - Co-creator of FilamentPHP.
+- [Leandro Ferreira](https://x.com/leandrocfe) - FilamentPHP Core Team Member
+- [Povilas Korop](https://x.com/PovilasKorop) - FilamentPHP/Laravel Courses Creator & Youtuber
 
 ## Contributing
 
